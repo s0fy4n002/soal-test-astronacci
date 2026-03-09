@@ -6,8 +6,8 @@ PHP 8.2+, Composer, Node.js, and npm installed.
 ### 1. Install Dependencies
 
 Backend:
-cd backend
-composer install
+- cd backend
+- composer install
 
 Frontend:
 - cd frontend
