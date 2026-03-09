@@ -44,10 +44,10 @@ php artisan migrate
 
 Start the backend:
 
-cd backend
-php artisan serve
+- cd backend
+- php artisan serve
 
 Start the frontend:
 
-cd frontend
-npm run dev
+- cd frontend
+- npm run dev
