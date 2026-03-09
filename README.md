@@ -10,8 +10,8 @@ cd backend
 composer install
 
 Frontend:
-cd frontend
-npm install
+- cd frontend
+- npm install
 
 ### 2. Configure Environment
 
